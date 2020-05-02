@@ -1,0 +1,19 @@
+.RangeFilter{
+	 padding: 10px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	flex: 1 0 100px;
+ 	min-height: 80px;
+  	flex-wrap: wrap;
+	float:right;
+	width:100%;
+	max-width: 600px;
+}
+
+.horizontal-slider{
+	width: 600px;
+}
+.track-0{
+	background: gray;
+}

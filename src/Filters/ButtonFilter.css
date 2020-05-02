@@ -1,0 +1,17 @@
+.ButtonFilter{
+	box-sizing: border-box;
+  	margin-bottom: 20px;
+	text-align: left;
+	margin-left: 10px;
+	max-width: 600px;
+
+}
+
+
+
+
+.Box{
+	display: flex;
+  	flex-wrap: wrap;
+
+}
